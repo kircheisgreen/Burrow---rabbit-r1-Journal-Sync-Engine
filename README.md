@@ -298,3 +298,5 @@ The main implementation areas are:
 - `rabbit_sync/visualizer.py`: SVG, PNG, and PDF mind maps.
 - `rabbit_sync/windows_task_registrar.py`, `scheduler_cli.py`: background automation.
 
+## Tips
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S0L726BHX5)
